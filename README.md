@@ -1,5 +1,4 @@
-# Mistral-Fine-Tuned
-Optimizing the Performance of the Mistral 7B Model
+# Optimizing the Performance of the Mistral 7B Model
 <p align="center">
   <img src="https://github.com/akhilchibber/Mistral-Fine-Tuned/blob/main/Mistral-AI.png?raw=true" alt="earthml Logo">
 </p>
